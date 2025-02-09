@@ -1,3 +1,13 @@
+/********
+	
+		Ping-Pong Game for 8051 w/ PlatformIO.
+
+		Copyright Team MyGensou 2018-2025
+		
+		The code is licensed under the GPLv3 Open Source License
+		
+********/
+
 #ifndef _extra_function_H
 #define _extra_function_H
 
