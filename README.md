@@ -5,6 +5,10 @@ Target board: Puzhong STC89C52 Board Type 2/3/4+
 
 To use it on any other board please refer to Board Scheme section.
 
+## Big news
+
+**PlatformIO based version now available!** No need to use KEIL C51, just PlatformIO+VS Code+stcgal! Please check ``platform-io`` branch! Also since this project is pretty old and my coding has been improved a lot, please do not use the C51 version.
+
 ## Disclaimer
 The project is only being created for my school paperwork, you may want to use this for your school project.
 But when used, please make sure you have properly learned all the knowledge!
